@@ -1,0 +1,19 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <option name="valueLookupDelay" value="150" />
+    </data-views>
+    <general>
+      <option name="showDebuggerOnBreakpoint" value="false" />
+    </general>
+    <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="enableExternalSourceDebug" value="false" />
+          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

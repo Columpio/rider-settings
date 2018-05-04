@@ -1,0 +1,14 @@
+<application>
+  <component name="PowerModeII">
+    <option name="customBamImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
+    <option name="customFlameImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
+    <option name="enabled" value="false" />
+    <option name="heatupTime" value="4948" />
+    <option name="isSoundsPlaying" value="true" />
+    <option name="keyStrokesPerMinute" value="302" />
+    <option name="maxFlameSize" value="150" />
+    <option name="shakeEnabled" value="false" />
+    <option name="soundsFolder" value="$USER_HOME$/Music/Songs/etc/2002 Airs &amp; Chansons de la Tradition Chevaleresque" />
+    <option name="sparkCount" value="20" />
+  </component>
+</application>
