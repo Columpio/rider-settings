@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Error Report-dotnet" displayType="NONE" />
-  </component>
-</application>

@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="fsl" type="F#" />
-      <mapping ext="msil" type="Xproj" />
-    </extensionMap>
-  </component>
-</application>
