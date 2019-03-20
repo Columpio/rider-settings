@@ -13,6 +13,9 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="f" />
   </action>
+  <action id="RebuildSolutionAction">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
