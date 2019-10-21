@@ -39,4 +39,7 @@
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="alt f10" />
+  </action>
 </keymap>
